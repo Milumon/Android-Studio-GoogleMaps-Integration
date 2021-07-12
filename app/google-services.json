@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "438202127019",
+    "project_id": "calcium-petal-317801",
+    "storage_bucket": "calcium-petal-317801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438202127019:android:0eb11902983ad089d61dee",
+        "android_client_info": {
+          "package_name": "com.isil.firebaseep4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438202127019-ihiibd4oduhn5f2if98punkqj5qko7tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztOiTwEo_ERsjK2xyocgCkKgZuaMTdRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438202127019-ihiibd4oduhn5f2if98punkqj5qko7tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438202127019:android:1b2d201d461cb419d61dee",
+        "android_client_info": {
+          "package_name": "com.isil.javafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438202127019-ihiibd4oduhn5f2if98punkqj5qko7tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztOiTwEo_ERsjK2xyocgCkKgZuaMTdRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438202127019-ihiibd4oduhn5f2if98punkqj5qko7tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

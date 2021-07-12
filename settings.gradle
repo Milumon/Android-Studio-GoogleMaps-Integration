@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseEP4"
+include ':app'
