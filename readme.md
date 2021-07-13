@@ -1,3 +1,12 @@
 # Android Studio Proyect
 
-![App Design](img/image1.jpg)![App Design](img/image2.jpg)![App Design](img/image3.jpg)
+
+<img src="img/image1.jpg" alt="drawing" width="200"/>
+
+<img src="img/image2.jpg" alt="drawing" width="200"/>
+
+<img src="img/image3.jpg" alt="drawing" width="200"/>
+
+
+
+ 
